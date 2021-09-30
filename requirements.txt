@@ -1,0 +1,5 @@
+termcolor
+importlib
+secrets
+ipaddress
+scapy
